@@ -22,11 +22,17 @@ Approval of PR's will be handled by the scrum master as well as other things lik
 Please follow the below outline when putting in a PR:
 
 --> Double check you are merging into the correct branch (this would ideally be into dev 9/10 times)
+
 --> Set 'Reviewers' to any and all people you want to have a look at your code
+
 --> Set 'Assignees' to the scrum master -- he'll approve and merge when given the all clear
+
 --> Provide a very brief description of what you've done:
+
 	--> Implemented feature X to help achieve Y etc 
+
 --> Tag the PR with the appropriate tag -- helps rest of the team find issues faster
+
 --> Do not worry about closing the branch -- SM will handle it.   
 
 # Knowledge Base
